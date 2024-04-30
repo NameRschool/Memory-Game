@@ -32,7 +32,7 @@ Follow these steps to play the Memory Game:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/MyNameIsYg/Memory-Game.git
+   git clone https://github.com/NameRschool/Memory-Game.git
    cd memory-game
    ```
    
